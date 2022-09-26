@@ -3,7 +3,7 @@
 #include "familyclass.h"
 using namespace std;
 
-
+//CREATING A CLASS SUCH THAT IT CONTAINS NAME ANS AGE OF THE FAMILY MEMEBER AND POINTER SFOR THE NEXT AND PREVIOUS MEMBERS OF THE FAMILY.
 class Family
 {
     public :
