@@ -4,6 +4,25 @@
 using namespace std;
 
 
+class Family
+{
+    public :
+    Family *prev;
+    string name;//FOR NAME OF THE MEMBER
+    int age;
+    Family *next;
+
+    Family(string name, int age)
+    {
+        this->name = name;
+        this->age = age;
+        this->prev = NULL;
+        this->next = NULL;
+    }
+
+};
+
+
 /*
 FUNCTION IMPLEMENTED IN THIS ASSIGNMENT ARE - 
 
