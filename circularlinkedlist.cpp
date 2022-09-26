@@ -1,3 +1,9 @@
+/*
+NAME - CHIRAG GUPTA
+SID - 21105037
+BRANCH - ECE
+*/
+
 
 // QUESTION 1
 // While traversing a single-circular linked list, which condition establishes that the traversing element/variable has reached the first element?
